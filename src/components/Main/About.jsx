@@ -157,7 +157,7 @@ const About = () => (
                         <h5>Figma</h5>
                     </div>
                     <div>
-                        <img alt="seguridad" className="icons-skils" src="https://previews.dropbox.com/p/thumb/AB5SqIb3sb_Dv3GMCuFE9H8RWBJC39T2itZHp4uTHl_in4FoZLDqM9AcUFrjEAvcjCr9rgD6aD3uzJEAWBmmtwDmJFjqnaIDMJtFiyKwYZCZft0hSdVxm13RIkWRNcABImT210jby9leQy5ylGNWZLGbDaG9FFj7S-RyrvYF51Vjqv41gEeDXcgvxNxEH8iqkFgGFxcjpjTlN3vHDOuki-DLXSCYYBRLgUOiK-04F_pAJzK05i93-PBfXayY5f1F-c8pPIEMYDvoZkQf1US0j72KChGYcKOV6gQRDrgVJtaJEKD8y1iljFNezofKIbIc9VCUmxm3zWFOBbAcLuMTfWmNcz5Al5g5ik5erdVf5X_grXQ3kGO5v19zc4v4lYmSRl0/p.png" title="Photoshop" />
+                        <img alt="seguridad" className="icons-skils" src="https://previews.dropbox.com/p/thumb/AB7eA9T7N7Kk1uH7c7_LP1y2PCfihhN7E4hkLmzlXof6hKf2hhGhcJAG22u0X_TxcJKOFi1Co1fnZS3BLshDOKTcSaC__Q2GJ3N5VvRhxk-HzbzxXMfw1pKfYiSuATZpv_DU_jthzRJ8Et2fed01w4FWIwZ_n4ffIMLP-ONUF_qLgDr3EC9J95JoE45lCfwn8UNkmyFaOCzO_4H-pIqAp4dqq1TSKVPpTKX5EAHKQu4_Wwc1hm7u0O0SApYTJYZ_NV6pUFN60X5rmqqv4sdCt6iQ5J8E6WDYrjP2tlp3aIi0MNSvPd579Y22EOJfWn_WMzhabXsVZ0nsm0iY6JKm0_WomHzdbzsP8HCODNo4PW445n8liqG9DopP6tvCzK40B8Q/p.jpeg" title="Photoshop" />
                         <h5>Seguridad Informatica</h5>
                          
                     </div>
