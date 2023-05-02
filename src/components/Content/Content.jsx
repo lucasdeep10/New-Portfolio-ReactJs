@@ -38,7 +38,7 @@ const Content = () => (
                     <a href="https://www.linkedin.com/in/lucas-ferreyra-bb205a206/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1200"><i className="fab fa-linkedin"></i></a>
                     <a href="https://github.com/lucasdeep10" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1400"><i className="fab fa-github"></i></a>
                     <a href="https://www.instagram.com/lucasferreyra8/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1600"><i className="fab fa-instagram"></i></a>
-                    <a href="https://api.whatsapp.com/send/?phone=%2B543417215170&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1800"><i className="fab fa-whatsapp"></i></a>
+                    <a href="https://api.whatsapp.com/send/?phone=%2B542474403618&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1800"><i className="fab fa-whatsapp"></i></a>
                 </div>
                 <div className="wrapper">
                     <a className="button" href="https://www.linkedin.com/in/lucas-ferreyra-bb205a206/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1200">
@@ -59,7 +59,7 @@ const Content = () => (
                         </div>
                         <span>Instagram</span>
                     </a>
-                    <a className="button" href="https://api.whatsapp.com/send/?phone=%2B543417215170&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1800">
+                    <a className="button" href="https://api.whatsapp.com/send/?phone=%2B542474403618&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1800">
                         <div className="icon">
                             <i className="fab fa-whatsapp"></i>
                         </div>

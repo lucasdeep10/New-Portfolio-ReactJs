@@ -50,7 +50,7 @@ const Contact = () => (
                     Gmail
                 </div>
             </a>
-            <a href="https://api.whatsapp.com/send/?phone=%2B543417215170&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
+            <a href="https://api.whatsapp.com/send/?phone=%2B542474403618&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
                 <div className="layer">
                     <span></span>
                     <span></span>
