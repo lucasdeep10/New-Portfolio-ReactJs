@@ -157,7 +157,7 @@ const About = () => (
                         <h5>Figma</h5>
                     </div>
                     <div>
-                        <img alt="seguridad" className="icons-skils" src="https://previews.dropbox.com/p/thumb/AB7eA9T7N7Kk1uH7c7_LP1y2PCfihhN7E4hkLmzlXof6hKf2hhGhcJAG22u0X_TxcJKOFi1Co1fnZS3BLshDOKTcSaC__Q2GJ3N5VvRhxk-HzbzxXMfw1pKfYiSuATZpv_DU_jthzRJ8Et2fed01w4FWIwZ_n4ffIMLP-ONUF_qLgDr3EC9J95JoE45lCfwn8UNkmyFaOCzO_4H-pIqAp4dqq1TSKVPpTKX5EAHKQu4_Wwc1hm7u0O0SApYTJYZ_NV6pUFN60X5rmqqv4sdCt6iQ5J8E6WDYrjP2tlp3aIi0MNSvPd579Y22EOJfWn_WMzhabXsVZ0nsm0iY6JKm0_WomHzdbzsP8HCODNo4PW445n8liqG9DopP6tvCzK40B8Q/p.jpeg" title="Photoshop" />
+                        <img alt="seguridad" className="icons-skils" src="https://cdn.jsdelivr.net/gh/lucasdeep10/img-docs@main/kisspng-safety-computer-icons-security-safe-5ab63a203ca451_7558683915218918722484-transformed.png" title="Ciberseguridad" />
                         <h5>Seguridad Informatica</h5>
                          
                     </div>

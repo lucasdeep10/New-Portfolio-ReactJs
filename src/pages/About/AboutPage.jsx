@@ -174,7 +174,7 @@ const About = () => {
                 </p>
               </div>
               <div className="skill-card" data-aos="flip-left" data-aos-delay="300">
-                <img alt="express" className="skills-img" src="https://previews.dropbox.com/p/thumb/AB7eA9T7N7Kk1uH7c7_LP1y2PCfihhN7E4hkLmzlXof6hKf2hhGhcJAG22u0X_TxcJKOFi1Co1fnZS3BLshDOKTcSaC__Q2GJ3N5VvRhxk-HzbzxXMfw1pKfYiSuATZpv_DU_jthzRJ8Et2fed01w4FWIwZ_n4ffIMLP-ONUF_qLgDr3EC9J95JoE45lCfwn8UNkmyFaOCzO_4H-pIqAp4dqq1TSKVPpTKX5EAHKQu4_Wwc1hm7u0O0SApYTJYZ_NV6pUFN60X5rmqqv4sdCt6iQ5J8E6WDYrjP2tlp3aIi0MNSvPd579Y22EOJfWn_WMzhabXsVZ0nsm0iY6JKm0_WomHzdbzsP8HCODNo4PW445n8liqG9DopP6tvCzK40B8Q/p.jpeg" title="jQuery" />
+                <img alt="express" className="skills-img" src="https://cdn.jsdelivr.net/gh/lucasdeep10/img-docs@main/kisspng-safety-computer-icons-security-safe-5ab63a203ca451_7558683915218918722484-transformed.png" title="Ciberseguridad" />
                 <h2 className="skill-name">Seguridad Informatica</h2>
                 <p className="skill-info">
                   <FormattedMessage
@@ -184,7 +184,7 @@ const About = () => {
                 </p>
               </div>
               <div className="skill-card" data-aos="flip-left" data-aos-delay="300">
-                <img alt="express" className="skills-img" src="https://previews.dropbox.com/p/thumb/AB7a_SNlzvhdw21SNbwYDYpDefOZpq0pvEB01MaQ2v4HjP1X8rIQJnspnrFOUSTPgCmlgroGparSPz1T75mPxEGw4keABj7sleFzb0jo2dMnkjXVMxYnLNV0fSISXOLs1Pu697udB8QtVjq_beYrYgcf3GuGI0hWVgJkwTqgOt09_c4jk-oOm144n5kzmoac1Z4iDy8qcgmqnYj5LlcUBdcTRgCzrMrKNRghJz6uEec-uts0_VLVFNytc4uaOVD-vX1Yi-BMSpWdGpQfoES-XWiMltBQ5wMbPt8cy9cQq3i6u6etqpVZ_9xAPvlYGgOr6wN5Inw58mvKwm6Jt7yDHLth-IjVg6qsvs71fhROrWgfyHm0udeKvyNS-O7QO5LYhu0/p.jpeg" title="jQuery" />
+                <img alt="express" className="skills-img" src="https://cdn.jsdelivr.net/gh/lucasdeep10/img-docs@main/wordpress-transformed.png" title="Wordpress" />
                 <h2 className="skill-name">Wordpress</h2>
                 <p className="skill-info">
                   <FormattedMessage
@@ -194,7 +194,7 @@ const About = () => {
                 </p>
               </div>
               <div className="skill-card" data-aos="flip-left" data-aos-delay="300">
-                <img alt="express" className="skills-img" src="https://previews.dropbox.com/p/thumb/AB4SyhBVHKMbnQp97cbeiJC237whq-bNgKtqY6bT9i4oDrfXHjxQnKUe_jtq9hPm2T1tlthDNLlaFhYatVy-7kGMZ_ML_BVimd9Iyn69Y5bcrWa3KLtXh9oh-ItwO-PrDNUean3ls3wdHN3E5vhS_LmnlVcu3bvI5lA-6Bk3nbrTIeirbyDA3pDu0r-aLkY5VmYVnMg7Fmc2Az_7V5P9aEq1L5nL68dPXJPLs-eqq_8nxIFGnO2hkRiQTB0tEhfAlceusxEdO6qosfHgO9NuCjB0ZBAvJuqy46eMkHB89KvBZdNErti3F3yG2QiOoWrFTnk-PfhMA96KG2kbZfbDIVH-NjEMxC6KgUn9VwnaTQhUxz9pQgAKF4b-LfbB1tz6n48/p.jpeg" title="jQuery" />
+                <img alt="express" className="skills-img" src="https://cdn.jsdelivr.net/gh/lucasdeep10/img-docs@main/servicio-tecnico.png" title="Tecnico en Redes y PC" />
                 <h2 className="skill-name">Tecnico en PC y Redes</h2>
                 <p className="skill-info">
                   <FormattedMessage
