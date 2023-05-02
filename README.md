@@ -1,4 +1,5 @@
 # Portfolio Lucas Ferreyra v2 🖥️
 
 
-![porfolio](https://user-images.githubusercontent.com/88118566/235746974-b3574439-e6c3-405d-a101-edb1acc6398e.png)
+
+![Diseño sin título](https://user-images.githubusercontent.com/88118566/235750334-6a6ab129-288b-48e9-89d1-f5bd266baf62.png)
