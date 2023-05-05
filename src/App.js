@@ -11,9 +11,9 @@ import About from "./pages/About/AboutPage";
 import Services from "./pages/Service/ServicesPage";
 import Project from "./pages/Project/ProjectPage";
 import ProjectApp from "./pages/Project/ProjectApp";
-/*import ProjectGame from "./pages/Project/ProjectGame"; <Route exact path="/project/game" element={<ProjectGame />} /> */
 
 import RouterScrollTop from "./components/ScrollToTop/RouterScrollTop"
+import { RingLoader } from 'react-spinners';
 
 
 function App() {
@@ -27,7 +27,10 @@ function App() {
     }, [])
     return (
         <>
+        <div className='spining'><RingLoader color="#00e5fe" /> </div>
+             
             <RouterScrollTop />
+                
             {
                 loading ?
 
@@ -49,6 +52,7 @@ function App() {
                     </Routes>
 
             }
+           
 
         </>
     )

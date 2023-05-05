@@ -53,7 +53,9 @@ main,
 }
 
 .loader {
-    position: relative;
+    position: absolute;
+    top: 50%;
+    left: 50%;
 }
 
 .loader span {
@@ -73,10 +75,10 @@ color: transparent;
 .loader span:nth-child(2) {
 color: var(--green);
 -webkit-text-stroke: 1px var(--green);
-animation: nahuel61920 3s ease-in-out infinite;
+animation: Lucas Ferrera 3s ease-in-out infinite;
 }
 
-@keyframes nahuel61920 {
+@keyframes LucasFerreyra {
 0%, 100% {
     clip-path: polygon(0% 45%, 15% 44%, 32% 50%, 
     74% 60%, 70% 61%, 84% 59%, 100% 52%, 100% 100%, 0% 100%);
@@ -228,4 +230,10 @@ body.dark .btn::after {
     .loader span {
         font-size: 3rem;
     }
+}
+
+.spining {
+    position: absolute;
+    top: 50%;
+    left: 50%;
 }

@@ -70,8 +70,8 @@ const Header = () => {
                     />
                 </Link>
                 <div id="buttons">
-                    <img onClick={() => idioma.selectLanguage('en-US')} src="https://previews.dropbox.com/p/thumb/AB7mrW7-HXbHOnRCl3yJqhQ7oloF-hQx2W76udLw0_wbIskrAKKurRZV84Vgni0jz7xKnT294L9Ll3O3xmeXo_lm9gDBHGnZ4YDSJN1t5xDmu9NEV6ZWOYwxyrxu5ctwccqg7C44m-BvuYY9lzsU2aLJIorwD5FS5kpWEYjfZMZzJpFZXYbVYyxf6TnEmW-JXfC5tm3oqylnkrpafq4vEt_XHSZr0rSz6VTpN86CtDcR_2exeMwA_hKKDsSXssLsnNWad06kfZnybz5FuXaC3Yq3kH_COBrIUaDzQ3LpADE1W2r_EpRhw0G5_XI3esgIdTz0-seS0AVfCmQASv-r05X0QUg2-sMFwqMrGHbTVihr0ZlPLHAqw4ABQkHUNxPay3E/p.png" alt="EEUU" />
-                    <img onClick={() => idioma.selectLanguage('es-ES')} src="https://previews.dropbox.com/p/thumb/AB5K3t9GtQX4Jv4cmsNmh3XQJt8-YY8n9b3xOfUNczKJUdqfAWVFcE2V_sxXRwYouOuxAJhwEkZHWBDeyS0w9mOwsQhGouHB2QaKYPbFv0U988D1NnQ3g0JZFeOthbUHy0Od1P6uICbQS0xEDO4cWgNtxhow3g9C0SLYphvN16FJUCNTxezV68oLgacygfHUMfpxhZrUsiMY2FoqWNpN5TFe5mYRaeUvCLbcsveVvPF21VQZt6G2b-0PWSCA8mUre_Knd6ncVjqJ06LpVxWoi4qe6Qnb9jSM9Cj9-zFNs4GYrpJ2uI8arQqFbyVfe0XQZ8rxSg1iepBtl1UEezSc0I1fRXbj5xzkUngJSdVKqZlwwiJqZkd_GLwAJcW2In2xRmU/p.png" alt="España" />
+                    <img onClick={() => idioma.selectLanguage('en-US')} src="https://cdn.jsdelivr.net/gh/lucasdeep10/img-docs@main/en.png" alt="EEUU" />
+                    <img onClick={() => idioma.selectLanguage('es-ES')} src="https://cdn.jsdelivr.net/gh/lucasdeep10/img-docs@main/es.png" alt="España" />
                 </div>
             </nav>
             <div className="switch" id="switch">
