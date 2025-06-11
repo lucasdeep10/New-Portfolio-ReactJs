@@ -17,8 +17,8 @@
 
     "im": "who I am",
     "description": "My name is Lucas Ferreyra and I am a full stack developer.",
-    "my-description": "I have been working on web designing and web development for 2 years. Constantly updating the technologies I already master, but also looking to learn new technologies to enrich my skills and improve my good practices as a developer.",
-    "years": "Age: 29",
+    "my-description": "I’m a Full‑Stack Developer and Automation Specialist with over 3 years of experience in IT, including 2+ years focused on web development, API integrations, and workflow automation. I blend strong front‑end (React, Tailwind CSS) and back‑end (Node.js, Express, Python, PostgreSQL) skills with deep expertise in automation platforms like N8N, Make and Zapier. I’ve successfully led and implemented projects to optimize business processes—designing low-/no-code automation flows, building robust REST APIs, and deploying full‑stack web solutions. Constantly driven to improve code quality, I embrace best practices (TDD, CI/CD, Docker) and continuously evolve my stack: I’ve recently added Python scripting, PostgreSQL, Docker Compose, and cloud deployment to my skill set.Passionate about delivering scalable, maintainable software and intelligent automation, I thrive in remote/full‑stack roles that leverage cross-functional technologies while allowing me to grow alongside dynamic teams.",
+    "years": "Age: ",
     "from": "From: ",
     "btn-know-more": "Read more",
     "tools": "Tools",
