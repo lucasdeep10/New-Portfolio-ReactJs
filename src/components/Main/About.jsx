@@ -66,7 +66,7 @@ const About = () => (
                                     defaultMessage='From:'
                                 />
                             </span>
-                            Rosario, Argentina
+                            Victoria, Entre Rios, Argentina
                         </p>
                     </li>
                 </ul>
