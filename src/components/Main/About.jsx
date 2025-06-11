@@ -45,7 +45,6 @@ const About = () => (
                                     defaultMessage='Age:'
                                 />
                             </span>
-                            27
                         </p>
                     </li>
                     <li>
