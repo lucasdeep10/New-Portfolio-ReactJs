@@ -68,7 +68,9 @@ const About = () => {
                 <p>
                   <FormattedMessage
                     id='about-info-3'
-                    defaultMessage="I have experience working as a freelance web designer and developer, which gave me the opportunity to work on many interesting projects, adapting to the client's needs and budget, which allowed me to improve my skills and knowledge; Additionally, I have also had the opportunity to be part of some online and face-to-face courses that helped me enrich my skills and learn a little more about this beautiful world of web development."
+                    defaultMessage="I’m a Full‑Stack Developer and Automation Specialist with over 3 years of experience in IT, including 2+ years focused on web development, API integrations, and workflow automation. I blend strong front‑end (React, Tailwind CSS) and back‑end (Node.js, Express, Python, PostgreSQL) skills with deep expertise in automation platforms like N8N, Make and Zapier.
+                                    I’ve successfully led and implemented projects to optimize business processes—designing low-/no-code automation flows, building robust REST APIs, and deploying full‑stack web solutions. Constantly driven to improve code quality, I embrace best practices (TDD, CI/CD, Docker) and continuously evolve my stack: I’ve recently added Python scripting, PostgreSQL, Docker Compose, and cloud deployment to my skill set.
+                                    Passionate about delivering scalable, maintainable software and intelligent automation, I thrive in remote/full‑stack roles that leverage cross-functional technologies while allowing me to grow alongside dynamic teams."
                   />
                 </p>
               </div>
