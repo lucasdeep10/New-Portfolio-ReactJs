@@ -110,7 +110,7 @@ const About = () => (
                         <h5>Bootstrap</h5>
                     </div>
                     <div>
-                        <img alt="Nextjs" className="icons-skils" src="https://www.dropbox.com/scl/fi/8lbykiz5ir9pa8qyhqh90/pngwing.com-4.png?rlkey=fnm80fpcmbgs81qdvzzyaqiz4&st=vab52jar&dl=0" />
+                        <img alt="Nextjs" className="icons-skils" src="https://www.dropbox.com/scl/fi/8lbykiz5ir9pa8qyhqh90/pngwing.com-4.png?rlkey=fnm80fpcmbgs81qdvzzyaqiz4&st=vab52jar&dl=1" />
                         <h5>Next JS</h5>
                     </div>
                     <div>
@@ -137,7 +137,7 @@ const About = () => (
                         <h5>Express</h5>
                     </div>
                     <div>
-                        <img alt="sql" className="icons-skils" src="https://www.dropbox.com/scl/fi/7lkwhtphzhcvmswv83n6f/database_4248340.png?rlkey=w6llngrtz7zk1b6d4a848qk0m&st=xw8th2v1&dl=0" />
+                        <img alt="sql" className="icons-skils" src="https://www.dropbox.com/scl/fi/7lkwhtphzhcvmswv83n6f/database_4248340.png?rlkey=w6llngrtz7zk1b6d4a848qk0m&st=xw8th2v1&dl=1" />
                         <h5>Sql</h5>
                     </div>
                     <div>
@@ -149,7 +149,7 @@ const About = () => (
                         <h5>PHP</h5>
                     </div>
                      <div>
-                        <img alt="python" className="icons-skils" src="https://www.dropbox.com/scl/fi/afsiz273bxvucyxnmqfno/python_5968350.png?rlkey=anawg2j5xfic7je33xhkw2v1s&st=wwic4f36&dl=0" />
+                        <img alt="python" className="icons-skils" src="https://www.dropbox.com/scl/fi/afsiz273bxvucyxnmqfno/python_5968350.png?rlkey=anawg2j5xfic7je33xhkw2v1s&st=wwic4f36&dl=1" />
                         <h5>Python</h5>
                     </div>
                 </div>
@@ -176,27 +176,27 @@ const About = () => (
                         <h5>Git</h5>
                     </div>
                     <div>
-                        <img alt="docker" className="icons-skils" src="https://www.dropbox.com/scl/fi/7lkwhtphzhcvmswv83n6f/database_4248340.png?rlkey=w6llngrtz7zk1b6d4a848qk0m&st=tlmjxmde&dl=0" />
+                        <img alt="docker" className="icons-skils" src="https://www.dropbox.com/scl/fi/7lkwhtphzhcvmswv83n6f/database_4248340.png?rlkey=w6llngrtz7zk1b6d4a848qk0m&st=tlmjxmde&dl=1" />
                         <h5>Docker</h5>
                     </div>
                      <div>
-                        <img alt="postman" className="icons-skils" src="https://www.dropbox.com/scl/fi/v599wxmfczlv5dqzzblax/pngwing.com.png?rlkey=t41r4nhpgb9pyh2j1hn2zq7q7&st=us8xmrsc&dl=0" />
+                        <img alt="postman" className="icons-skils" src="https://www.dropbox.com/scl/fi/v599wxmfczlv5dqzzblax/pngwing.com.png?rlkey=t41r4nhpgb9pyh2j1hn2zq7q7&st=us8xmrsc&dl=1" />
                         <h5>Postman</h5>
                     </div>
                      <div>
-                        <img alt="n8n" className="icons-skils" src="https://www.dropbox.com/scl/fi/wi1wgzgu0t164yubo22uu/pngwing.com-1.png?rlkey=23mmuk2hrlkg933l89o1yyskl&st=uupydp9s&dl=0" />
+                        <img alt="n8n" className="icons-skils" src="https://www.dropbox.com/scl/fi/wi1wgzgu0t164yubo22uu/pngwing.com-1.png?rlkey=23mmuk2hrlkg933l89o1yyskl&st=uupydp9s&dl=1" />
                         <h5>n8n</h5>
                     </div>
                     <div>
-                        <img alt="github" className="icons-skils" src="https://www.dropbox.com/scl/fi/c9gnot3l4mouti4nvzth9/pngwing.com-6.png?rlkey=agfgb483licd1rkey3f4868pq&st=al7z8vx4&dl=0" />
+                        <img alt="github" className="icons-skils" src="https://www.dropbox.com/scl/fi/c9gnot3l4mouti4nvzth9/pngwing.com-6.png?rlkey=agfgb483licd1rkey3f4868pq&st=al7z8vx4&dl=1" />
                         <h5>Git Hub</h5>
                     </div>
                     <div>
-                        <img alt="JSON" className="icons-skils" src="https://www.dropbox.com/scl/fi/zcnxqgjpquvcdr9w9qfev/pngwing.com-7.png?rlkey=djs80ziu08leo9ywm5rpvutwp&st=5ebmxqke&dl=0" />
+                        <img alt="JSON" className="icons-skils" src="https://www.dropbox.com/scl/fi/zcnxqgjpquvcdr9w9qfev/pngwing.com-7.png?rlkey=djs80ziu08leo9ywm5rpvutwp&st=5ebmxqke&dl=1" />
                         <h5>Json</h5>
                     </div>
                     <div>
-                        <img alt="crm" className="icons-skils" src="https://www.dropbox.com/scl/fi/9kn75li5do6q9eqk611zq/pngwing.com-9.png?rlkey=fsjuqzb78pu1x7heqi91s25xv&st=6fwmlal3&dl=0" />
+                        <img alt="crm" className="icons-skils" src="https://www.dropbox.com/scl/fi/9kn75li5do6q9eqk611zq/pngwing.com-9.png?rlkey=fsjuqzb78pu1x7heqi91s25xv&st=6fwmlal3&dl=1" />
                         <h5>CRM</h5>
                     </div>
                 </div>
